@@ -24,12 +24,6 @@ export default function Body() {
              to create products that make a difference 
              in people's lives.
             </p>
-            <h3 className='about'>Favourite Qoute!</h3>
-            <p className='last'>
-            What you get by achieving your goals
-            Is not as important as
-            What you become by achieving your goals.
-            </p>
 
             <img src="./src/assets/sunzu.jpg" className='clip-full'/>
 
@@ -38,6 +32,13 @@ export default function Body() {
             UI/UX Design <br />
             FullStack Web\ WebApp Development <br />
             React JS\ HTML\ CSS\ NODE JS\ React Native
+            </p>
+
+            <h3 className='about'>Favourite Qoute!</h3>
+            <p className='last'>
+            What you get by achieving your goals
+            Is not as important as
+            What you become by achieving your goals.
             </p>
         </div>
     )

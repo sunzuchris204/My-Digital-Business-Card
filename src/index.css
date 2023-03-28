@@ -1,7 +1,8 @@
 * {
   background-color: #23252C;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: 'webSymbolsRegular', cursive;
 }
 .Nav--container {
   width: 400px;
@@ -41,8 +42,22 @@ button {
   margin-left: 60px;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
+}
+/* my edits */
+button a{
+  text-decoration: none;
+  background-color: white;
+  color: #374151;
 }
 .but {
+  background-color: #5093E2;
+  color: white;
+  cursor: pointer;
+}
+/* again */
+.but a{
+  text-decoration: none;
   background-color: #5093E2;
   color: white;
 }
