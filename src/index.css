@@ -4,10 +4,14 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 .Nav--container {
-  width: 350px;
+  width: 400px;
   background-color: #1A1B21;
-  /* height: auto; */
+  height: 700px;
   margin: auto;
+  /* my new work */
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-top: 70px;
 }
 .clip-full {
   width: 100%;
@@ -52,7 +56,9 @@ h3 {
   margin-left: 10px;
 }
 .about {
-  padding-bottom: px;
+  /* my new Edits */
+  /* padding-bottom: px; */
+  text-align: center;
   padding-top: 5px;
 }
 p {
@@ -60,7 +66,9 @@ p {
   background-color: #1A1B21;
   color: #DCDCDC;
   font-weight: 100;
-  font-size: 12px;
+  font-size: 15px;
+  /* new edits */
+  text-align: center;
 }
 .icons {
   font-size: 12px;
