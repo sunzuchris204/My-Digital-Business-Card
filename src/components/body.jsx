@@ -15,30 +15,30 @@ export default function Body() {
             </p>
             <h3 className='about'>Interests</h3>
             <p className='last'>
-             Eager to develop software solutions
-             that solve real-world problems, 
-             I'm constantly learning new technologies 
-             such as web3.0 and honing my software 
-             development skills. Driven by a passion 
-             for innovation and collaboration, I strive 
-             to create products that make a difference 
-             in people's lives.
+                Eager to develop software solutions
+                that solve real-world problems,
+                I'm constantly learning new technologies
+                such as web3.0 and honing my software
+                development skills. Driven by a passion
+                for innovation and collaboration, I strive
+                to create products that make a difference
+                in people's lives.
             </p>
 
-            <img src="./src/assets/sunzu.jpg" className='clip-full'/>
+            <img src="./src/assets/sunzu.jpg" className='clip-full' />
 
             <h3 className='about'>Professionalism!</h3>
             <p className='last'>
-            UI/UX Design <br />
-            FullStack Web\ WebApp Development <br />
-            React JS\ HTML\ CSS\ NODE JS\ React Native
+                UI/UX Design <br />
+                FullStack Web\ WebApp Development <br />
+                React JS\ HTML\ CSS\ NODE JS\ React Native
             </p>
 
             <h3 className='about'>Favourite Qoute!</h3>
             <p className='last'>
-            What you get by achieving your goals
-            Is not as important as
-            What you become by achieving your goals.
+                What you get by achieving your goals
+                Is not as important as
+                What you become by achieving your goals.
             </p>
         </div>
     )
