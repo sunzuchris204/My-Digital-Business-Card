@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/sunzuchris204/My-Digital-Business-Card",
+  "homepage": "https://sunzuchris204.github.io/My-Digital-Business-Card/",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "predeploy": "npm run build",
     "deploy": "vite build && npx gh-pages -d dist"
   },
   "dependencies": {
